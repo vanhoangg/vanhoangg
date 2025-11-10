@@ -9,7 +9,7 @@
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Flutter Projects <br>
-- 🌱 I've 3+ years of professional experience worked at S3 Corporation Solutions and built cross-platform applications in Flutter , native applications in Swift
+- 🌱 I've 5+ years of professional experience worked at S3 Corporation Solutions and built cross-platform applications in Flutter , native applications in Swift
 - 😄 I've experience in self-managing work, as well as the ability to manage multiple issues at the same time. Give good ideas for the company's project.
 - 💬 Ask me about Flutter or Swift
 
